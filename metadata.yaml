@@ -1,0 +1,29 @@
+_repo: A-Manual-of-Elementary-Geology--13-or-The-Ancient-Changes-of-the-Earth-and-its-Inhabitants-as__34350
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lyell, Charles, Sir
+    birthdate: 1797
+    deathdate: 1875
+    gutenberg_agent_id: '1297'
+    url: http://www.gutenberg.org/2009/agents/1297
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Lyell
+description: ''
+gutenberg_issued: '2010-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34350'
+  lccn: 05015499
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geology'
+- !lcc 'QE'
+title: "A Manual of Elementary Geology\r\nor, The Ancient Changes of the Earth and\
+  \ its Inhabitants as Illustrated by Geological Monuments"
+url: http://www.gutenberg.org/ebooks/34350
